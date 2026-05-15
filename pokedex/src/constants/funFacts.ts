@@ -1,0 +1,17 @@
+export const funFacts = [
+  "Magikarp is one of the weakest Pokémon, but it can evolve into the powerful Gyarados!",
+  "Pikachu stores electricity in the red pouches on its cheeks.",
+  "Eevee can evolve into multiple different forms depending on its environment.",
+  "Bulbasaur has a plant seed on its back from the day it is born.",
+  "Charmander's tail flame indicates its life force — if it goes out, it faints.",
+  "Squirtle's shell is not just for protection — it helps it swim at high speeds.",
+  "Gengar is said to hide in people's shadows and steal their warmth.",
+  "Snorlax only wakes up to eat, requiring over 400 kg of food per day.",
+  "Meowth is the only Pokémon known to speak human language fluently.",
+  "Psyduck suffers from constant headaches, which trigger its psychic powers.",
+  "Dragonite can fly around the world in just 16 hours.",
+  "Jigglypuff uses its singing to put enemies to sleep.",
+  "Ditto can transform into any Pokémon, but often gets the face slightly wrong.",
+  "Lapras is known for its gentle nature and love of carrying people across water.",
+  "Mew is said to contain the DNA of all Pokémon, making it extremely versatile.",
+];
