@@ -81,7 +81,6 @@ Each Pokémon has its own details page containing:
 ## Future Improvements
 
 - Dark mode
-- Add animations and transitions
 - Team builder
 - Login
 - Firebase integration
