@@ -30,6 +30,7 @@ export async function addRecentlyViewedPokemon(pokemon: RecentlyViewedPokemon) {
   return updatedPokemon;
 }
 
+//Temporary way to clean storage
 export async function clearRecentlyViewedPokemon() {
   await AsyncStorage.removeItem(RECENTLY_VIEWED_KEY);
 }
